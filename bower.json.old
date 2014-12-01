@@ -1,0 +1,45 @@
+{
+  "name": "ScribeReports3yo",
+  "version": "0.0.1b",
+  "dependencies": {
+    "ember": "*",
+    "ember-data": "*",
+    "ember-validations": "*",
+    "ember-charts": "*",
+    "ember-auth": "*",
+    "handlebars": "*",
+    "bootstrap": "*",
+    "bootstrap-daterangepicker": "*",
+    "sass-bootstrap": "*",
+    "jquery": "*",
+    "jquery-ui": "*",
+    "jquery.cookie": "*",
+    "jquery-number": "*",
+    "modernizr": "*",
+    "requirejs": "*",
+    "footable": "*",
+    "isotope": "*",
+    "slickgrid": "*",
+    "ember-addons.bs_for_ember": "~0.7.0",
+    "ember-c3": "~0.1.2",
+    "moment": "*",
+    "moment-timezone": "*",
+    "twix": "*",
+    "piecon": "*",
+    "font-awesome": "*",
+    "css-toggle-switch": "~2.1.6",
+    "ember-responsive": "~0.2.14"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "devDependencies": {
+    "ember-qunit": "~0.1.8",
+    "flexgrid": "https://github.com/ptb/flexgrid.git"
+  },
+  "resolutions": {
+    "moment": "2.8.2"
+  }
+}
