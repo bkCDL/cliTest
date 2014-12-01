@@ -1,0 +1,4 @@
+cliTest
+=======
+
+ember-cli test
